@@ -1,0 +1,6 @@
+@Task_ValidationAndLogging_HostAddress = http://localhost:5180
+
+GET {{Task_ValidationAndLogging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
